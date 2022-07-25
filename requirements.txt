@@ -1,3 +1,4 @@
+#author: Samarth
 jupyter==1.0.0
 jupyter-client==6.1.3
 jupyter-console==6.1.0
